@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8932134601",
+    "firebase_url": "https://olivia-app-75382.firebaseio.com",
+    "project_id": "olivia-app-75382",
+    "storage_bucket": "olivia-app-75382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8932134601:android:626292eb7bf4a2daba8718",
+        "android_client_info": {
+          "package_name": "com.oliviareacttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8932134601-su4t9btkhon08om8jgp9i6kq215bi523.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC651YZgD8XW3OZloikR3Wkr01FryqVzHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8932134601-su4t9btkhon08om8jgp9i6kq215bi523.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "oliviareacttest",
+  "displayName": "oliviareacttest",
+  "expo": {
+    "name": "oliviareacttest",
+    "slug": "oliviareacttest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
