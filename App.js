@@ -19,11 +19,12 @@ import HomeScreen from './screens/homescreen';
 // });
 
 
-var config = {
-  apiKey: "AIzaSyBuhL4NKOURyGUHb0yxVRBBldeqr7jS7nU",
-  databaseURL: "https://olivia-app-75382.firebaseio.com/",
-  projectId: "olivia-app-75382",
-};
+// var config = {
+//   apiKey: "YOUR_KEY_HERE",
+//   databaseURL: "YOUR_DB_HERE",
+//   projectId: "olivia-app-75382",
+// };
+
 firebaseApp = firebase.initializeApp(config);
 
 export const firebaseAuth = firebaseApp.auth()
